@@ -1,24 +1,8 @@
 # README
+This is a simple (though unfinished) API for a support ticketing system. I was building it while learning how to test my Rails APIs using Rspec, Airborne, FactoryGirl etc.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+You can read more about testing with Airborne [here](https://chunksofco.de/testing-your-rails-apis-with-airborne-f5689848f4a5#.1utflmp8r).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Running the Application
+Just fork & checkout the source code, & run `bundle install`.
+You can run all tests with `rspec`
